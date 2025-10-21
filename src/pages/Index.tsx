@@ -315,7 +315,7 @@ const Index = () => {
           <div className="flex items-center justify-center gap-3 mb-4">
             <span className="text-6xl animate-bounce-slow">🌤️</span>
             <h1 className="text-5xl md:text-6xl font-bold text-white drop-shadow-lg">
-              Манечкоды
+              Метеокоины
             </h1>
           </div>
           <p className="text-xl text-white/90 drop-shadow">
